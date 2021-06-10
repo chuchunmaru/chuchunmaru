@@ -1,9 +1,10 @@
+##
 ### Chuchunmaru
 ##
 
-Otaku 🍜 
-Software Student 💻
-The Future is open source 🎭
-Thank you for visiting my profile ♥️
+<p> Otaku 🍜 </p>
+<p> Software Student 💻 </p>
+<p> The Future is open source 🎭 </p>
+<p> Thank you for visiting my profile ♥️ </p>
 
 ##
